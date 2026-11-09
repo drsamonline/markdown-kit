@@ -1,0 +1,8 @@
+{
+  "name": "markdown-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "markdown-kit \u2014 Markdown to HTML with a streaming reveal, for model output that arrives in chunks.",
+  "scripts": { "test": "node test-node.js" },
+  "license": "SEE LICENSE IN LICENSE"
+}
